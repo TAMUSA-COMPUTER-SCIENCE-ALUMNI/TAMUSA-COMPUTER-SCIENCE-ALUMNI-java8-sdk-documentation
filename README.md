@@ -5,4 +5,4 @@
 2. Open cloned respository folder
 3. Open index.html in your favorite browser
 4. Bookmark the page
-5. This new bookmark will give you immediate access to the completed Java 8 SDK documentation
+5. This new bookmark will give you immediate access to the complete documentation for the Java 8 SDK
